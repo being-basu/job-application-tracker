@@ -30,6 +30,12 @@ Built using vanilla JavaScript with a focus on clean UI, state management, and r
 
 ## Screenshots
 
+### Home Page
+![Home Page](screenshots/home.png)
+
+### Applications card
+![Applications Page](screenshots/applications.png)
+
 
 ##My Future Improvements plans
 - Edit application details
